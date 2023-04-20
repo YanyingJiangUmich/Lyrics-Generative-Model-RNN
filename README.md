@@ -1,4 +1,4 @@
-# Lyrics Generative Model using GRU and LSTM within TensorFlow
+# Lyrics Generative Model using GRU and LSTM with TensorFlow
 Authors: Yanying Jiang, Josh Horner, Kenny Tang
 
 
