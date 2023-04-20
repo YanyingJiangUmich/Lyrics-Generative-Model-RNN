@@ -8,6 +8,8 @@ The dataset originally had over 150,000 songs across 4,168 unique artists.
 The dataset includes song name, artist name, genres, and lyrics.
 For our project, however, we decided to use songs covering 32 American artists with the most songs. After filtering to these artists, we have a little over 1400 songs across 32 artists, each with 300 or more songs.
 
+![poster](https://github.com/YanyingJiangUmich/Lyrics-Generative-Model-RNN/blob/main/Final%20Poster.png)
+
 ### How to run our code:
 A. Data Cleaning - 
 Once the Data has been downloaded, save the data set containing the lyrics as 'lyrics-data.csv'. Then run 'Data Cleaning.ipynb' to obtain 'clean_lyrics_df.csv'. 
@@ -40,4 +42,4 @@ tensorboard --host 0.0.0.0 --logdir=./logs
 You can access the board on URL: http://localhost:6006/ 
 
 
-![poster](https://github.com/YanyingJiangUmich/Lyrics-Generative-Model-RNN/blob/main/Final%20Poster.png)
+
