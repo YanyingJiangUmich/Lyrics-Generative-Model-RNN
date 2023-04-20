@@ -40,3 +40,4 @@ tensorboard --host 0.0.0.0 --logdir=./logs
 You can access the board on URL: http://localhost:6006/ 
 
 
+![poster](https://github.com/YanyingJiangUmich/Lyrics-Generative-Model-RNN/blob/main/Final%20Poster.png)
