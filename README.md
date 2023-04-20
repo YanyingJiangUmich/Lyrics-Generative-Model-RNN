@@ -10,7 +10,7 @@ For our project, however, we decided to use songs covering 32 American artists w
 
 
 ### Sample Result 
-![poster](https://github.com/YanyingJiangUmich/Lyrics-Generative-Model-RNN/blob/main/Final%20Poster.png =250x450)
+![poster](https://github.com/YanyingJiangUmich/Lyrics-Generative-Model-RNN/blob/main/Final%20Poster.png)
 
 ### How to run our code:
 A. Data Cleaning - 
