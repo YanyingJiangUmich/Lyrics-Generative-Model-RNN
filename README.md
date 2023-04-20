@@ -1,4 +1,4 @@
-# The Lyrical Empiricals - Capstone Project
+# Lyrics Generative Model using GRU and LSTM within TensorFlow
 Authors: Yanying Jiang, Josh Horner, Kenny Tang
 
 
