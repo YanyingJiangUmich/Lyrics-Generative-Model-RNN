@@ -1,4 +1,6 @@
 # The Lyrical Empiricals - Capstone Project
+Authors: Yanying Jiang, Josh Horner, Kenny Tang
+
 
 ### Dataset
 We obtained our dataset from Kaggle (https://www.kaggle.com/datasets/neisse/scrapped-lyrics-from-6-genres?select=artists-data.csv)
